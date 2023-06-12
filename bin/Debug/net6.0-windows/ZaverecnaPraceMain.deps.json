@@ -1,0 +1,207 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ZaverecnaPraceMain/1.0.0": {
+        "dependencies": {
+          "blazek": "1.0.0.0",
+          "kroupa-zaverecna": "1.0.0.0",
+          "Kubec": "1.0.0.0",
+          "MargetinPrace": "1.0.0.0",
+          "PilatZavereckaUPG": "1.0.0.0",
+          "Pinčessss": "1.0.0.0",
+          "Projekt": "1.0.0.0",
+          "SchemaPocitace": "1.0.0.0",
+          "zaverecka_upg_romer": "1.0.0.0",
+          "ZaverecnaPraceBaseDLL": "1.0.0.0",
+          "ZaverecnaPraceNovak": "1.0.0.0",
+          "ZaverecnaPraceSmrz": "1.0.0.0",
+          "ZaverecnaPraceUPG_Dan": "1.0.0.0"
+        },
+        "runtime": {
+          "ZaverecnaPraceMain.dll": {}
+        }
+      },
+      "blazek/1.0.0.0": {
+        "runtime": {
+          "blazek.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "kroupa-zaverecna/1.0.0.0": {
+        "runtime": {
+          "kroupa-zaverecna.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Kubec/1.0.0.0": {
+        "runtime": {
+          "Kubec.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "MargetinPrace/1.0.0.0": {
+        "runtime": {
+          "MargetinPrace.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "PilatZavereckaUPG/1.0.0.0": {
+        "runtime": {
+          "PilatZavereckaUPG.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Pinčessss/1.0.0.0": {
+        "runtime": {
+          "Pinčessss.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Projekt/1.0.0.0": {
+        "runtime": {
+          "Projekt.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SchemaPocitace/1.0.0.0": {
+        "runtime": {
+          "SchemaPocitace.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "zaverecka_upg_romer/1.0.0.0": {
+        "runtime": {
+          "zaverecka_upg_romer.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "ZaverecnaPraceBaseDLL/1.0.0.0": {
+        "runtime": {
+          "ZaverecnaPraceBaseDLL.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "ZaverecnaPraceNovak/1.0.0.0": {
+        "runtime": {
+          "ZaverecnaPraceNovak.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "ZaverecnaPraceSmrz/1.0.0.0": {
+        "runtime": {
+          "ZaverecnaPraceSmrz.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "ZaverecnaPraceUPG_Dan/1.0.0.0": {
+        "runtime": {
+          "ZaverecnaPraceUPG_Dan.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ZaverecnaPraceMain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "blazek/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "kroupa-zaverecna/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Kubec/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MargetinPrace/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PilatZavereckaUPG/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Pinčessss/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Projekt/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SchemaPocitace/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "zaverecka_upg_romer/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ZaverecnaPraceBaseDLL/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ZaverecnaPraceNovak/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ZaverecnaPraceSmrz/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ZaverecnaPraceUPG_Dan/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

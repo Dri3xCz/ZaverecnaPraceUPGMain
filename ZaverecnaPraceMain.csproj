@@ -1,0 +1,101 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="MargetinPrace">
+      <HintPath>Dependencies\MargetinPrace.dll</HintPath>
+    </Reference>
+    <Reference Include="Pinčessss">
+      <HintPath>Dependencies\Pinčessss.dll</HintPath>
+    </Reference>
+    <Reference Include="SchemaPocitace">
+      <HintPath>Dependencies\SchemaPocitace.dll</HintPath>
+    </Reference>
+    <Reference Include="ZaverecnaPraceBaseDLL">
+      <HintPath>Dependencies\ZaverecnaPraceBaseDLL.dll</HintPath>
+    </Reference>
+    <Reference Include="kroupa-zaverecna">
+      <HintPath>Dependencies\kroupa-zaverenca.dll</HintPath>
+    </Reference>
+    <Reference Include="Kubec">
+      <HintPath>Dependencies\Kubec.dll</HintPath>
+    </Reference>
+    <Reference Include="ZaverecnaPraceSmrz">
+      <HintPath>Dependencies\ZaverecnaPraceSmrz.dll</HintPath>
+    </Reference>
+    <Reference Include="ZaverecnaPraceUPG_Dan">
+      <HintPath>Dependencies\ZaverecnaPraceUPG_Dan.dll</HintPath>
+    </Reference>
+    <Reference Include="PilatZavereckaUPG">
+      <HintPath>Dependencies\PilatZavereckaUPG.dll</HintPath>
+    </Reference>  
+    <Reference Include="blazek">
+      <HintPath>Dependencies\blazek.dll</HintPath>
+    </Reference>  
+    <Reference Include="Projekt">
+      <HintPath>Dependencies\Projekt.dll</HintPath> 
+    </Reference>  
+    <Reference Include="zaverecka_upg_romer">
+      <HintPath>Dependencies\zaverecka_upg_romer.dll</HintPath> 
+    </Reference>
+    <Reference Include="ZaverecnaPraceNovak">
+      <HintPath>Dependencies\ZaverecnaPraceNovak.dll</HintPath> 
+    </Reference>
+    <Reference Include="ZaverecnaPraceUPG_Dan">
+      <HintPath>Dependencies\ZaverecnaPraceUPG_Dan.dll</HintPath> 
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Assets\exefile.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Extdrive.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="GrafTab.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Key.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Mon.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Mous.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Slouch.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Speke.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Zidl.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>
